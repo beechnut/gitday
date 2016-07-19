@@ -24,3 +24,4 @@ Below are some basic ideas.
 
 - put a git branch garnish on anything (rosemary, thyme, etc)
 - git blame tags so that people can look to see who brought what item
+- Anything with "origin" in the name, e.g. Werther's **Origin**al
