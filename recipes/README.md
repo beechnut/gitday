@@ -20,6 +20,11 @@ Below are some basic ideas.
 - git (yule) log
 - rebased cupcakes (tops cut off and frosted to a different type)
 
+## Beverages
+
+- giterade
+- git stash soda pop
+
 ## Other
 
 - put a git branch garnish on anything (rosemary, thyme, etc)
