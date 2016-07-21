@@ -16,7 +16,8 @@ Below are some basic ideas.
 ## Desserts
 
 - cherry-pick pie
-- git fetch prune
+- git push pops
+- git remote prune
 - git (yule) log
 - rebased cupcakes (tops cut off and frosted to a different type)
 
