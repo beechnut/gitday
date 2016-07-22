@@ -17,7 +17,7 @@ Below are some basic ideas.
 
 - cherry-pick pie
 - git push pops
-- git remote prune
+- git fetch prune
 - git (yule) log
 - rebased cupcakes (tops cut off and frosted to a different type)
 
