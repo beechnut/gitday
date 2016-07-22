@@ -16,7 +16,7 @@ Once a year, we set aside a day for celebrating the version control that makes o
 
 ## What makes a food git themed?  Besides that you eat it with a fork...
 
-Well, you're definitely going to need some puns, that's for sure.  Cherry-pick pie and pulled pork being two of the very best.  Of course, you could always just go with some git remote prunes if you're not feeling fancy.
+Well, you're definitely going to need some puns, that's for sure.  Cherry-pick pie and pulled pork being two of the very best.  Of course, you could always just go with some git fetch prunes if you're not feeling fancy.
 
 See the "recipes" directory for more ideas and please feel free to makes PRs with your own!
 
