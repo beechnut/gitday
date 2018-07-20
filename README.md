@@ -18,7 +18,11 @@ Once a year, we set aside a day for celebrating the version control that makes o
 
 Well, you're definitely going to need some puns, that's for sure.  Cherry-pick pie and pulled pork being two of the very best.  Of course, you could always just go with some git fetch prunes if you're not feeling fancy.
 
-See the "recipes" directory for more ideas and please feel free to makes PRs with your own!
+Inspirational git terminology:
+- [git command reference](https://git-scm.com/docs)
+- [git glossary](https://mirrors.edge.kernel.org/pub/software/scm/git/docs/gitglossary.html)
+
+See the "recipes" directory for more ideas and please feel free to make PRs with your own!
 
 ## Why is Git Day July 21st?
 
