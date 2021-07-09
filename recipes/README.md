@@ -1,33 +1,34 @@
 # Recipes
 
-Browse the files in this directory to get some good ideas for git day foods!
-
-Below are some basic ideas.
+Check out these ideas for Git Day feasting and come up with your own, as well. If you get stuck, try browsing the [git glossary](https://git-scm.com/docs/gitglossary) for inspiration.
 
 ## Appetizers
 
-- any type of hash
-- anything "bisected"
+- 🟧 Cheez-gits
+- 🍇 git fetch prunes
 
-## Meals
+## Entrees or, dare we say, "main" dishes?
 
-- pulled pork
+- ♨️ pulled pork
+- #️⃣ any type of hash
+  - perhaps this [vegan country hash](/recipes/country_hash.md)?
+- ✂️ anything "bisected"
 
 ## Desserts
 
-- cherry-pick pie
-- git push pops
-- git fetch prune
-- git (yule) log
-- rebased cupcakes (tops cut off and frosted to a different type)
+- 🍒 [cherry-pick pie](/recipes/cherry-pick_pie.md)
+- 🧊 git push pops
+- 🌲 git (yule) log
+- 🧁 rebased cupcakes (tops cut off and reattached with frosting to a different cupcake)
+- 🍫 GUI brownies
 
 ## Beverages
 
-- giterade
-- git stash soda pop
+- 🍹 giterade
+- 🥤 git stash soda pop
 
 ## Other
 
-- put a git branch garnish on anything (rosemary, thyme, etc)
-- git blame tags so that people can look to see who brought what item
-- Anything with "origin" in the name, e.g. Werther's **Origin**al
+- 🍂 put a `git branch` garnish on anything (rosemary, thyme, etc)
+- 🏷️ `git blame` tags so that people know who brought which item
+- 🍬 Anything with "origin" in the name, e.g. Werther's **Origin**al
