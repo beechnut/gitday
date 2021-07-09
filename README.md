@@ -9,7 +9,7 @@ Once a year, we set aside a day for celebrating the version control that makes o
 Some activities are fun to do with your friends:
 
 - 🍒 Eat git themed food with a fork, obviously
-- 🖍️ Decorate an octocat
+- 🖍️ [Decorate an octocat](/activities/README.md)
 - 🧑‍🏫 Teach someone how to use git!
 
 You can also celebrate Git Day from the comfort of your own home:
