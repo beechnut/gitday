@@ -14,6 +14,10 @@ Check out these ideas for Git Day feasting and come up with your own, as well. I
   - perhaps this [vegan country hash](/recipes/country_hash.md)?
 - ✂️ anything "bisected"
 
+## Side Dishes
+
+- 🍠 squash
+
 ## Desserts
 
 - 🍒 [cherry-pick pie](/recipes/cherry-pick_pie.md)
@@ -32,3 +36,4 @@ Check out these ideas for Git Day feasting and come up with your own, as well. I
 - 🍂 put a `git branch` garnish on anything (rosemary, thyme, etc)
 - 🏷️ `git blame` tags so that people know who brought which item
 - 🍬 Anything with "origin" in the name, e.g. Werther's **Origin**al
+- For utensils, no spoons or knives allowed but feel free bring `porcelain` and `fork`s
